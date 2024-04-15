@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     background-color: rgba(63, 93, 201, 0.636)!important;
 }
@@ -29,36 +28,4 @@ ul{
 .social{
 	width:20px;
 	height: 20px;
-=======
-body{
-    background-color: rgba(63, 93, 201, 0.636)!important;
-}
-
-#profile-wrapper{
-    text-align: center;
-}
-
-#profile-pic{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-ul{
-	padding: 0;
-    list-style-type: none;
-}
-
-
-.social-links ul, li{
-	list-style-type:none;
-	display: inline-block;
-}
-
-.social{
-	width:20px;
-	height: 20px;
->>>>>>> e1a42c0d2ec4abd1d8540c02d8ddd6e044b61010
 }
