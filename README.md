@@ -4,7 +4,7 @@ On this project my main goal was to create a portafolio resume website using Dja
 
 To run the server is necessary to type on the powershell python manage.py runserver this will display a link for a local host that will include our website.
 
-The purpose of my code is to demostrate how Django can be use to create web applications and how by using Django I was able to create my personal portafolio.
+The purpose of my code is to demonstrate how Django can be used to create web applications by creating my personal portfolio website.
 
 [Software Demo Video](https://www.loom.com/share/577a189569134d5487cf9409e4f92a05?sid=d8767142-9f77-4b1a-b9de-63ee86ffa64e)
 
