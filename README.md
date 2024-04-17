@@ -18,7 +18,6 @@ The other sections include reelevant information and also organized by CSS also 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
 Python as primary already installed on my computer.
 
 Django by using pip install Django also used to create my base project and run the main server.
