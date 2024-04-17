@@ -31,7 +31,4 @@ VS Code to code and include my main page.
 * [Python](https://www.python.org/downloads/)
 * [Django](https://www.djangoproject.com/start/)
 
-# Future Work
 
-* Include more reelevant information based on my experience.
-* A section that let visitors dowload my resume.
